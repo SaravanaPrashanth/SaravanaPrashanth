@@ -1,5 +1,9 @@
-<h1 align="center">Hello there! 👋, I'm Saravana Prashanth </h1>
+<h1 align="center">Hello there!👋, I'm Saravana Prashanth </h1>
 <h3 align="center">Master's in Data Science | Analyst | AI/ML | Data Analytics & Machine Learning Enthusiast</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanaprashanth&label=Profile%20views&color=0e75b6&style=flat" alt="saravanaprashanth" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saravanaprashanth" alt="saravanaprashanth" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science**
 
@@ -9,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saravana prashanth kamalakannan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saravana prashanth kamalakannan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saravana prashanth k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saravana prashanth k" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saravana-spk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saravana-spk/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/sakthisakthi2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sakthisakthi2000/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saravanaprashanth&show_icons=true&locale=en" alt="saravanaprashanth" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saravanaprashanth&" alt="saravanaprashanth" /></p>
-
