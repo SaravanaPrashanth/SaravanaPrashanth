@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saravana Prashanth Kamalakannan</h1>
+<h1 align="center">Hello there! 👋, I'm Saravana Prashanth Kamalakannan</h1>
+<h1 align="center">Call me Saravana!</h1>
 <h3 align="center">Master's in Data Science | Analyst | AI/ML | Data Analytics & Machine Learning Enthusiast</h3>
 
 - 🌱 I’m currently learning **Data Science**
