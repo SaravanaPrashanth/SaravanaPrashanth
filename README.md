@@ -1,11 +1,11 @@
 <h1 align="center">Hello there! 👋, I'm Saravana Prashanth </h1>
-<h3 align="center">Master's in Data Science | Analyst | AI/ML | Data Analytics & Machine Learning Enthusiast</h3>
+<h3 align="center">Data Analyst (3 Yrs Exp) | Ex-Accenture | Python, SQL, Azure & ETL Specialist | MSc DS Distinction @UoS</h3>
 
 - 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **ksaravanaprashanth@gmail.com**
 
-- ⚡ Fact **A determined Master’s student in Data Science, passionate about leveraging AI/ML to solve real-world problems, and committed to continuous growth and success.**
+- ⚡ Fact **I build automated data pipelines and predictive models. Previously processed data for 1,000+ users at Accenture.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
